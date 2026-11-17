@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Healthcare_Dashboard/static/css/main.6b501948.css",
-    "main.js": "/Healthcare_Dashboard/static/js/main.cf7b0431.js",
+    "main.css": "/Healthcare_Dashboard/static/css/main.83e8c3f7.css",
+    "main.js": "/Healthcare_Dashboard/static/js/main.057ee88b.js",
     "static/js/453.1bdb1478.chunk.js": "/Healthcare_Dashboard/static/js/453.1bdb1478.chunk.js",
     "static/media/muscle-arm-unscreen.gif": "/Healthcare_Dashboard/static/media/muscle-arm-unscreen.455f6b82238e37295ddc.gif",
     "static/media/teeth.png": "/Healthcare_Dashboard/static/media/teeth.dd2e325f4c47a0652e9f.png",
@@ -12,12 +12,12 @@
     "static/media/muscularbodyanatomy-removebg-preview.png": "/Healthcare_Dashboard/static/media/muscularbodyanatomy-removebg-preview.71065412d874d0456f54.png",
     "static/media/eye-removebg-preview.png": "/Healthcare_Dashboard/static/media/eye-removebg-preview.64e865fc9ef8c2d04cca.png",
     "index.html": "/Healthcare_Dashboard/index.html",
-    "main.6b501948.css.map": "/Healthcare_Dashboard/static/css/main.6b501948.css.map",
-    "main.cf7b0431.js.map": "/Healthcare_Dashboard/static/js/main.cf7b0431.js.map",
+    "main.83e8c3f7.css.map": "/Healthcare_Dashboard/static/css/main.83e8c3f7.css.map",
+    "main.057ee88b.js.map": "/Healthcare_Dashboard/static/js/main.057ee88b.js.map",
     "453.1bdb1478.chunk.js.map": "/Healthcare_Dashboard/static/js/453.1bdb1478.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b501948.css",
-    "static/js/main.cf7b0431.js"
+    "static/css/main.83e8c3f7.css",
+    "static/js/main.057ee88b.js"
   ]
 }
